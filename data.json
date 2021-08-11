@@ -1,702 +1,998 @@
 [
-  {
-    "kommun": "LIDINGÖ",
-    "2016": 10429226,
-    "2021": 14101432,
-    "fiveyear": 3672206,
-    "prisändring": "2012,16767123288"
-  },
-  {
-    "kommun": "LOMMA",
-    "2016": 4416654,
-    "2021": 7819955,
-    "fiveyear": 3403301,
-    "prisändring": "1864,82246575342"
-  },
-  {
-    "kommun": "DANDERYD",
-    "2016": 11657960,
-    "2021": 14758037,
-    "fiveyear": 3100077,
-    "prisändring": "1698,67232876712"
-  },
-  {
-    "kommun": "VELLINGE",
-    "2016": 4667718,
-    "2021": 7341774,
-    "fiveyear": 2674056,
-    "prisändring": "1465,23616438356"
-  },
-  {
-    "kommun": "NACKA",
-    "2016": 7463042,
-    "2021": 10008632,
-    "fiveyear": 2545590,
-    "prisändring": "1394,84383561644"
-  },
-  {
-    "kommun": "VÄRMDÖ",
-    "2016": 5115178,
-    "2021": 7325514,
-    "fiveyear": 2210336,
-    "prisändring": "1211,14301369863"
-  },
-  {
-    "kommun": "VAXHOLM",
-    "2016": 6035143,
-    "2021": 8240994,
-    "fiveyear": 2205851,
-    "prisändring": "1208,68547945205"
-  },
-  {
-    "kommun": "EKERÖ",
-    "2016": 5058060,
-    "2021": 7201333,
-    "fiveyear": 2143273,
-    "prisändring": "1174,39616438356"
-  },
-  {
-    "kommun": "HÖGANÄS",
-    "2016": 2858826,
-    "2021": 4968728,
-    "fiveyear": 2109902,
-    "prisändring": "1156,11068493151"
-  },
-  {
-    "kommun": "LUND",
-    "2016": 3865886,
-    "2021": 5944068,
-    "fiveyear": 2078182,
-    "prisändring": "1138,7298630137"
-  },
-  {
-    "kommun": "ÖCKERÖ",
-    "2016": 4272662,
-    "2021": 6349005,
-    "fiveyear": 2076343,
-    "prisändring": "1137,72219178082"
-  },
-  {
-    "kommun": "TÄBY",
-    "2016": 6928679,
-    "2021": 8903036,
-    "fiveyear": 1974357,
-    "prisändring": "1081,83945205479"
-  },
-  {
-    "kommun": "PARTILLE",
-    "2016": 4879867,
-    "2021": 6783086,
-    "fiveyear": 1903219,
-    "prisändring": "1042,8597260274"
-  },
-  {
-    "kommun": "KUNGSBACKA",
-    "2016": 4374797,
-    "2021": 6255803,
-    "fiveyear": 1881006,
-    "prisändring": "1030,68821917808"
-  },
-  {
-    "kommun": "BÅSTAD",
-    "2016": 3626627,
-    "2021": 5493037,
-    "fiveyear": 1866410,
-    "prisändring": "1022,6904109589"
-  },
-  {
-    "kommun": "MALMÖ",
-    "2016": 4172630,
-    "2021": 6019833,
-    "fiveyear": 1847203,
-    "prisändring": "1012,16602739726"
-  },
-  {
-    "kommun": "STOCKHOLM",
-    "2016": 6862779,
-    "2021": 8693949,
-    "fiveyear": 1831170,
-    "prisändring": "1003,38082191781"
-  },
-  {
-    "kommun": "SOLNA",
-    "2016": 9926765,
-    "2021": 11744375,
-    "fiveyear": 1817610,
-    "prisändring": "995,950684931507"
-  },
-  {
-    "kommun": "SIMRISHAMN",
-    "2016": 2261270,
-    "2021": 4057353,
-    "fiveyear": 1796083,
-    "prisändring": "984,155068493151"
-  },
-  {
-    "kommun": "GÖTEBORG",
-    "2016": 5170759,
-    "2021": 6964049,
-    "fiveyear": 1793290,
-    "prisändring": "982,624657534247"
-  },
-  {
-    "kommun": "STAFFANSTORP",
-    "2016": 3172995,
-    "2021": 4935500,
-    "fiveyear": 1762505,
-    "prisändring": "965,756164383562"
-  },
-  {
-    "kommun": "SOLLENTUNA",
-    "2016": 6493000,
-    "2021": 8226444,
-    "fiveyear": 1733444,
-    "prisändring": "949,832328767123"
-  },
-  {
-    "kommun": "SUNDBYBERG",
-    "2016": 7871115,
-    "2021": 9553182,
-    "fiveyear": 1682067,
-    "prisändring": "921,680547945205"
-  },
-  {
-    "kommun": "HUDDINGE",
-    "2016": 5401611,
-    "2021": 7080444,
-    "fiveyear": 1678833,
-    "prisändring": "919,908493150685"
-  },
-  {
-    "kommun": "BOLLEBYGD",
-    "2016": 2259090,
-    "2021": 3933413,
-    "fiveyear": 1674323,
-    "prisändring": "917,437260273973"
-  },
-  {
-    "kommun": "MÖLNDAL",
-    "2016": 4708482,
-    "2021": 6374398,
-    "fiveyear": 1665916,
-    "prisändring": "912,830684931507"
-  },
-  {
-    "kommun": "HÄRRYDA",
-    "2016": 3905211,
-    "2021": 5563869,
-    "fiveyear": 1658658,
-    "prisändring": "908,853698630137"
-  },
-  {
-    "kommun": "LINKÖPING",
-    "2016": 3180689,
-    "2021": 4809332,
-    "fiveyear": 1628643,
-    "prisändring": "892,407123287671"
-  },
-  {
-    "kommun": "KÄVLINGE",
-    "2016": 3151425,
-    "2021": 4778196,
-    "fiveyear": 1626771,
-    "prisändring": "891,381369863014"
-  },
-  {
-    "kommun": "ÖSTERÅKER",
-    "2016": 4269297,
-    "2021": 5871316,
-    "fiveyear": 1602019,
-    "prisändring": "877,818630136986"
-  },
-  {
-    "kommun": "TJÖRN",
-    "2016": 2946100,
-    "2021": 4478255,
-    "fiveyear": 1532155,
-    "prisändring": "839,53698630137"
-  },
-  {
-    "kommun": "HALMSTAD",
-    "2016": 2932040,
-    "2021": 4429409,
-    "fiveyear": 1497369,
-    "prisändring": "820,476164383562"
-  },
-  {
-    "kommun": "OXELÖSUND",
-    "2016": 2050494,
-    "2021": 3464500,
-    "fiveyear": 1414006,
-    "prisändring": "774,797808219178"
-  },
-  {
-    "kommun": "LERUM",
-    "2016": 3562497,
-    "2021": 4975914,
-    "fiveyear": 1413417,
-    "prisändring": "774,475068493151"
-  },
-  {
-    "kommun": "HELSINGBORG",
-    "2016": 3498770,
-    "2021": 4886778,
-    "fiveyear": 1388008,
-    "prisändring": "760,552328767123"
-  },
-  {
-    "kommun": "ÅRE",
-    "2016": 2334080,
-    "2021": 3719740,
-    "fiveyear": 1385660,
-    "prisändring": "759,265753424658"
-  },
-  {
-    "kommun": "KNIVSTA",
-    "2016": 4060061,
-    "2021": 5428081,
-    "fiveyear": 1368020,
-    "prisändring": "749,6"
-  },
-  {
-    "kommun": "SÖDERTÄLJE",
-    "2016": 3392873,
-    "2021": 4758618,
-    "fiveyear": 1365745,
-    "prisändring": "748,353424657534"
-  },
-  {
-    "kommun": "YSTAD",
-    "2016": 2612935,
-    "2021": 3968227,
-    "fiveyear": 1355292,
-    "prisändring": "742,625753424658"
-  },
-  {
-    "kommun": "TROSA",
-    "2016": 3307947,
-    "2021": 4652408,
-    "fiveyear": 1344461,
-    "prisändring": "736,69095890411"
-  },
-  {
-    "kommun": "NORRTÄLJE",
-    "2016": 2448697,
-    "2021": 3786685,
-    "fiveyear": 1337988,
-    "prisändring": "733,144109589041"
-  },
-  {
-    "kommun": "MJÖLBY",
-    "2016": 1894707,
-    "2021": 3220462,
-    "fiveyear": 1325755,
-    "prisändring": "726,441095890411"
-  },
-  {
-    "kommun": "ALE",
-    "2016": 2980005,
-    "2021": 4300133,
-    "fiveyear": 1320128,
-    "prisändring": "723,357808219178"
-  },
-  {
-    "kommun": "STRÄNGNÄS",
-    "2016": 2758729,
-    "2021": 4075340,
-    "fiveyear": 1316611,
-    "prisändring": "721,430684931507"
-  },
-  {
-    "kommun": "NYKVARN",
-    "2016": 3482833,
-    "2021": 4783446,
-    "fiveyear": 1300613,
-    "prisändring": "712,664657534247"
-  },
-  {
-    "kommun": "ÄNGELHOLM",
-    "2016": 2702822,
-    "2021": 3989352,
-    "fiveyear": 1286530,
-    "prisändring": "704,947945205479"
-  },
-  {
-    "kommun": "LANDSKRONA",
-    "2016": 2768222,
-    "2021": 4047912,
-    "fiveyear": 1279690,
-    "prisändring": "701,2"
-  },
-  {
-    "kommun": "SKURUP",
-    "2016": 2083966,
-    "2021": 3362180,
-    "fiveyear": 1278214,
-    "prisändring": "700,391232876712"
-  },
-  {
-    "kommun": "UPPSALA",
-    "2016": 4075441,
-    "2021": 5338661,
-    "fiveyear": 1263220,
-    "prisändring": "692,175342465753"
-  },
-  {
-    "kommun": "TRELLEBORG",
-    "2016": 2560553,
-    "2021": 3819452,
-    "fiveyear": 1258899,
-    "prisändring": "689,807671232877"
-  },
-  {
-    "kommun": "BURLÖV",
-    "2016": 3192714,
-    "2021": 4448214,
-    "fiveyear": 1255500,
-    "prisändring": "687,945205479452"
-  },
-  {
-    "kommun": "HANINGE",
-    "2016": 4290187,
-    "2021": 5539185,
-    "fiveyear": 1248998,
-    "prisändring": "684,382465753425"
-  },
-  {
-    "kommun": "HÅBO",
-    "2016": 3348033,
-    "2021": 4588698,
-    "fiveyear": 1240665,
-    "prisändring": "679,816438356164"
-  },
-  {
-    "kommun": "STENUNGSUND",
-    "2016": 3163420,
-    "2021": 4398225,
-    "fiveyear": 1234805,
-    "prisändring": "676,605479452055"
-  },
-  {
-    "kommun": "VALLENTUNA",
-    "2016": 4332144,
-    "2021": 5554438,
-    "fiveyear": 1222294,
-    "prisändring": "669,750136986301"
-  },
-  {
-    "kommun": "SIGTUNA",
-    "2016": 4391284,
-    "2021": 5598331,
-    "fiveyear": 1207047,
-    "prisändring": "661,395616438356"
-  },
-  {
-    "kommun": "FALKENBERG",
-    "2016": 2183468,
-    "2021": 3384846,
-    "fiveyear": 1201378,
-    "prisändring": "658,289315068493"
-  },
-  {
-    "kommun": "VÄSTERÅS",
-    "2016": 3066269,
-    "2021": 4258515,
-    "fiveyear": 1192246,
-    "prisändring": "653,285479452055"
-  },
-  {
-    "kommun": "VARBERG",
-    "2016": 3459206,
-    "2021": 4646894,
-    "fiveyear": 1187688,
-    "prisändring": "650,787945205479"
-  },
-  {
-    "kommun": "GOTLAND",
-    "2016": 2635079,
-    "2021": 3803714,
-    "fiveyear": 1168635,
-    "prisändring": "640,347945205479"
-  },
-  {
-    "kommun": "TYRESÖ",
-    "2016": 5696344,
-    "2021": 6848172,
-    "fiveyear": 1151828,
-    "prisändring": "631,138630136986"
-  },
-  {
-    "kommun": "ENKÖPING",
-    "2016": 2713633,
-    "2021": 3854224,
-    "fiveyear": 1140591,
-    "prisändring": "624,981369863014"
-  },
-  {
-    "kommun": "HAMMARÖ",
-    "2016": 2875798,
-    "2021": 4012831,
-    "fiveyear": 1137033,
-    "prisändring": "623,031780821918"
-  },
-  {
-    "kommun": "ORUST",
-    "2016": 2497867,
-    "2021": 3628682,
-    "fiveyear": 1130815,
-    "prisändring": "619,624657534247"
-  },
-  {
-    "kommun": "SVEDALA",
-    "2016": 3105194,
-    "2021": 4226920,
-    "fiveyear": 1121726,
-    "prisändring": "614,644383561644"
-  },
-  {
-    "kommun": "ALINGSÅS",
-    "2016": 3077597,
-    "2021": 4191056,
-    "fiveyear": 1113459,
-    "prisändring": "610,114520547945"
-  },
-  {
-    "kommun": "KUNGÄLV",
-    "2016": 3817506,
-    "2021": 4922864,
-    "fiveyear": 1105358,
-    "prisändring": "605,675616438356"
-  },
-  {
-    "kommun": "JÄRFÄLLA",
-    "2016": 5038932,
-    "2021": 6142050,
-    "fiveyear": 1103118,
-    "prisändring": "604,448219178082"
-  },
-  {
-    "kommun": "UPPLANDS-BRO",
-    "2016": 4366637,
-    "2021": 5465579,
-    "fiveyear": 1098942,
-    "prisändring": "602,16"
-  },
-  {
-    "kommun": "GÄVLE",
-    "2016": 2431395,
-    "2021": 3528997,
-    "fiveyear": 1097602,
-    "prisändring": "601,425753424658"
-  },
-  {
-    "kommun": "ÖREBRO",
-    "2016": 2898530,
-    "2021": 3996085,
-    "fiveyear": 1097555,
-    "prisändring": "601,4"
-  },
-  {
-    "kommun": "NYKÖPING",
-    "2016": 2732552,
-    "2021": 3828549,
-    "fiveyear": 1095997,
-    "prisändring": "600,546301369863"
-  },
-  {
-    "kommun": "FALUN",
-    "2016": 2516351,
-    "2021": 3610484,
-    "fiveyear": 1094133,
-    "prisändring": "599,524931506849"
-  },
-  {
-    "kommun": "VALDEMARSVIK",
-    "2016": 1126818,
-    "2021": 2197545,
-    "fiveyear": 1070727,
-    "prisändring": "586,699726027397"
-  },
-  {
-    "kommun": "MULLSJÖ",
-    "2016": 1279098,
-    "2021": 2339877,
-    "fiveyear": 1060779,
-    "prisändring": "581,248767123288"
-  },
-  {
-    "kommun": "NORRKÖPING",
-    "2016": 2778057,
-    "2021": 3822896,
-    "fiveyear": 1044839,
-    "prisändring": "572,514520547945"
-  },
-  {
-    "kommun": "ÅTVIDABERG",
-    "2016": 1456201,
-    "2021": 2499478,
-    "fiveyear": 1043277,
-    "prisändring": "571,658630136986"
-  },
-  {
-    "kommun": "BORGHOLM",
-    "2016": 1926175,
-    "2021": 2958257,
-    "fiveyear": 1032082,
-    "prisändring": "565,524383561644"
-  },
-  {
-    "kommun": "JÖNKÖPING",
-    "2016": 3155378,
-    "2021": 4177954,
-    "fiveyear": 1022576,
-    "prisändring": "560,315616438356"
-  },
-  {
-    "kommun": "GNESTA",
-    "2016": 2423071,
-    "2021": 3445333,
-    "fiveyear": 1022262,
-    "prisändring": "560,143561643836"
-  },
-  {
-    "kommun": "SKÖVDE",
-    "2016": 2207833,
-    "2021": 3225591,
-    "fiveyear": 1017758,
-    "prisändring": "557,675616438356"
-  },
-  {
-    "kommun": "UMEÅ",
-    "2016": 3198141,
-    "2021": 4214031,
-    "fiveyear": 1015890,
-    "prisändring": "556,652054794521"
-  },
-  {
-    "kommun": "SÖLVESBORG",
-    "2016": 1468295,
-    "2021": 2472410,
-    "fiveyear": 1004115,
-    "prisändring": "550,2"
-  },
-  {
-    "kommun": "ESLÖV",
-    "2016": 2137773,
-    "2021": 3140490,
-    "fiveyear": 1002717,
-    "prisändring": "549,43397260274"
-  },
-  {
-    "kommun": "KUMLA",
-    "2016": 2016948,
-    "2021": 3019000,
-    "fiveyear": 1002052,
-    "prisändring": "549,069589041096"
-  },
-  {
-    "kommun": "GRÄSTORP",
-    "2016": 1047469,
-    "2021": 2035882,
-    "fiveyear": 988413,
-    "prisändring": "541,596164383562"
-  },
-  {
-    "kommun": "HABO",
-    "2016": 2302025,
-    "2021": 3290083,
-    "fiveyear": 988058,
-    "prisändring": "541,401643835616"
-  },
-  {
-    "kommun": "ARVIKA",
-    "2016": 1303045,
-    "2021": 2291045,
-    "fiveyear": 988000,
-    "prisändring": "541,369863013699"
-  },
-  {
-    "kommun": "KARLSTAD",
-    "2016": 2511843,
-    "2021": 3499631,
-    "fiveyear": 987788,
-    "prisändring": "541,253698630137"
-  },
-  {
-    "kommun": "HÖÖR",
-    "2016": 1808330,
-    "2021": 2787752,
-    "fiveyear": 979422,
-    "prisändring": "536,669589041096"
-  },
-  {
-    "kommun": "SOTENÄS",
-    "2016": 3524489,
-    "2021": 4483897,
-    "fiveyear": 959408,
-    "prisändring": "525,70301369863"
-  },
-  {
-    "kommun": "SJÖBO",
-    "2016": 1333302,
-    "2021": 2290687,
-    "fiveyear": 957385,
-    "prisändring": "524,594520547945"
-  },
-  {
-    "kommun": "SALEM",
-    "2016": 4247014,
-    "2021": 5200688,
-    "fiveyear": 953674,
-    "prisändring": "522,561095890411"
-  },
-  {
-    "kommun": "KARLSKRONA",
-    "2016": 2026165,
-    "2021": 2974557,
-    "fiveyear": 948392,
-    "prisändring": "519,666849315068"
-  },
-  {
-    "kommun": "ANEBY",
-    "2016": 954851,
-    "2021": 1897000,
-    "fiveyear": 942149,
-    "prisändring": "516,24602739726"
-  },
-  {
-    "kommun": "VÄNERSBORG",
-    "2016": 1755082,
-    "2021": 2695839,
-    "fiveyear": 940757,
-    "prisändring": "515,483287671233"
-  },
-  {
-    "kommun": "BORÅS",
-    "2016": 2431524,
-    "2021": 3365106,
-    "fiveyear": 933582,
-    "prisändring": "511,551780821918"
-  },
-  {
-    "kommun": "LIDKÖPING",
-    "2016": 2357567,
-    "2021": 3291136,
-    "fiveyear": 933569,
-    "prisändring": "511,544657534247"
-  },
-  {
-    "kommun": "HÖRBY",
-    "2016": 1491772,
-    "2021": 2423060,
-    "fiveyear": 931288,
-    "prisändring": "510,294794520548"
-  },
-  {
-    "kommun": "SKELLEFTEÅ",
-    "2016": 1678134,
-    "2021": 2607268,
-    "fiveyear": 929134,
-    "prisändring": "509,114520547945"
-  }
+ {
+   "kommun": "ALE",
+   "2021": "4 300 133 kr",
+   "fiveyear": "1 320 128 kr",
+   "prisändring": "723 kr"
+ },
+ {
+   "kommun": "ALINGSÅS",
+   "2021": "4 191 056 kr",
+   "fiveyear": "1 113 459 kr",
+   "prisändring": "610 kr"
+ },
+ {
+   "kommun": "ALVESTA",
+   "2021": "1 875 954 kr",
+   "fiveyear": "521 642 kr",
+   "prisändring": "286 kr"
+ },
+ {
+   "kommun": "ANEBY",
+   "2021": "1 897 000 kr",
+   "fiveyear": "942 149 kr",
+   "prisändring": "516 kr"
+ },
+ {
+   "kommun": "ARBOGA",
+   "2021": "2 158 367 kr",
+   "fiveyear": "754 661 kr",
+   "prisändring": "414 kr"
+ },
+ {
+   "kommun": "ARVIDSJAUR",
+   "2021": "909 962 kr",
+   "fiveyear": "130 319 kr",
+   "prisändring": "71 kr"
+ },
+ {
+   "kommun": "ARVIKA",
+   "2021": "2 291 045 kr",
+   "fiveyear": "988 000 kr",
+   "prisändring": "541 kr"
+ },
+ {
+   "kommun": "ASKERSUND",
+   "2021": "1 835 000 kr",
+   "fiveyear": "657 333 kr",
+   "prisändring": "360 kr"
+ },
+ {
+   "kommun": "AVESTA",
+   "2021": "1 729 295 kr",
+   "fiveyear": "555 558 kr",
+   "prisändring": "304 kr"
+ },
+ {
+   "kommun": "BENGTSFORS",
+   "2021": "1 036 643 kr",
+   "fiveyear": "260 367 kr",
+   "prisändring": "143 kr"
+ },
+ {
+   "kommun": "BERG",
+   "2021": "1 639 773 kr",
+   "fiveyear": "585 423 kr",
+   "prisändring": "321 kr"
+ },
+ {
+   "kommun": "BJUV",
+   "2021": "2 140 800 kr",
+   "fiveyear": "817 987 kr",
+   "prisändring": "448 kr"
+ },
+ {
+   "kommun": "BODEN",
+   "2021": "1 722 684 kr",
+   "fiveyear": "305 639 kr",
+   "prisändring": "167 kr"
+ },
+ {
+   "kommun": "BOLLEBYGD",
+   "2021": "3 933 413 kr",
+   "fiveyear": "1 674 323 kr",
+   "prisändring": "917 kr"
+ },
+ {
+   "kommun": "BOLLNÄS",
+   "2021": "1 725 649 kr",
+   "fiveyear": "622 923 kr",
+   "prisändring": "341 kr"
+ },
+ {
+   "kommun": "BORGHOLM",
+   "2021": "2 958 257 kr",
+   "fiveyear": "1 032 082 kr",
+   "prisändring": "566 kr"
+ },
+ {
+   "kommun": "BORLÄNGE",
+   "2021": "2 715 482 kr",
+   "fiveyear": "479 138 kr",
+   "prisändring": "263 kr"
+ },
+ {
+   "kommun": "BORÅS",
+   "2021": "3 365 106 kr",
+   "fiveyear": "933 582 kr",
+   "prisändring": "512 kr"
+ },
+ {
+   "kommun": "BOTKYRKA",
+   "2021": "4 976 449 kr",
+   "fiveyear": "872 359 kr",
+   "prisändring": "478 kr"
+ },
+ {
+   "kommun": "BOXHOLM",
+   "2021": "1 720 000 kr",
+   "fiveyear": "378 571 kr",
+   "prisändring": "207 kr"
+ },
+ {
+   "kommun": "BROMÖLLA",
+   "2021": "1 899 521 kr",
+   "fiveyear": "805 543 kr",
+   "prisändring": "441 kr"
+ },
+ {
+   "kommun": "BRÄCKE",
+   "2021": "775 839 kr",
+   "fiveyear": "123 589 kr",
+   "prisändring": "68 kr"
+ },
+ {
+   "kommun": "BURLÖV",
+   "2021": "4 448 214 kr",
+   "fiveyear": "1 255 500 kr",
+   "prisändring": "688 kr"
+ },
+ {
+   "kommun": "BÅSTAD",
+   "2021": "5 493 037 kr",
+   "fiveyear": "1 866 410 kr",
+   "prisändring": "1 023 kr"
+ },
+ {
+   "kommun": "DANDERYD",
+   "2021": "14 758 037 kr",
+   "fiveyear": "3 100 077 kr",
+   "prisändring": "1 699 kr"
+ },
+ {
+   "kommun": "DEGERFORS",
+   "2021": "1 131 421 kr",
+   "fiveyear": "399 770 kr",
+   "prisändring": "219 kr"
+ },
+ {
+   "kommun": "EDA",
+   "2021": "1 216 176 kr",
+   "fiveyear": "393 088 kr",
+   "prisändring": "215 kr"
+ },
+ {
+   "kommun": "EKERÖ",
+   "2021": "7 201 333 kr",
+   "fiveyear": "2 143 273 kr",
+   "prisändring": "1 174 kr"
+ },
+ {
+   "kommun": "EKSJÖ",
+   "2021": "2 079 803 kr",
+   "fiveyear": "702 782 kr",
+   "prisändring": "385 kr"
+ },
+ {
+   "kommun": "EMMABODA",
+   "2021": "861 116 kr",
+   "fiveyear": "136 962 kr",
+   "prisändring": "75 kr"
+ },
+ {
+   "kommun": "ENKÖPING",
+   "2021": "3 854 224 kr",
+   "fiveyear": "1 140 591 kr",
+   "prisändring": "625 kr"
+ },
+ {
+   "kommun": "ESKILSTUNA",
+   "2021": "3 468 457 kr",
+   "fiveyear": "860 026 kr",
+   "prisändring": "471 kr"
+ },
+ {
+   "kommun": "ESLÖV",
+   "2021": "3 140 490 kr",
+   "fiveyear": "1 002 717 kr",
+   "prisändring": "549 kr"
+ },
+ {
+   "kommun": "ESSUNGA",
+   "2021": "1 464 615 kr",
+   "fiveyear": "390 841 kr",
+   "prisändring": "214 kr"
+ },
+ {
+   "kommun": "FAGERSTA",
+   "2021": "1 497 800 kr",
+   "fiveyear": "401 454 kr",
+   "prisändring": "220 kr"
+ },
+ {
+   "kommun": "FALKENBERG",
+   "2021": "3 384 846 kr",
+   "fiveyear": "1 201 378 kr",
+   "prisändring": "658 kr"
+ },
+ {
+   "kommun": "FALKÖPING",
+   "2021": "1 853 688 kr",
+   "fiveyear": "502 265 kr",
+   "prisändring": "275 kr"
+ },
+ {
+   "kommun": "FALUN",
+   "2021": "3 610 484 kr",
+   "fiveyear": "1 094 133 kr",
+   "prisändring": "600 kr"
+ },
+ {
+   "kommun": "FILIPSTAD",
+   "2021": "768 688 kr",
+   "fiveyear": "263 469 kr",
+   "prisändring": "144 kr"
+ },
+ {
+   "kommun": "FINSPÅNG",
+   "2021": "2 302 709 kr",
+   "fiveyear": "870 408 kr",
+   "prisändring": "477 kr"
+ },
+ {
+   "kommun": "FLEN",
+   "2021": "2 101 148 kr",
+   "fiveyear": "553 260 kr",
+   "prisändring": "303 kr"
+ },
+ {
+   "kommun": "FORSHAGA",
+   "2021": "1 778 437 kr",
+   "fiveyear": "603 174 kr",
+   "prisändring": "331 kr"
+ },
+ {
+   "kommun": "FÄRGELANDA",
+   "2021": "1 207 800 kr",
+   "fiveyear": "259 963 kr",
+   "prisändring": "142 kr"
+ },
+ {
+   "kommun": "GAGNEF",
+   "2021": "1 644 091 kr",
+   "fiveyear": "588 989 kr",
+   "prisändring": "323 kr"
+ },
+ {
+   "kommun": "GISLAVED",
+   "2021": "1 625 275 kr",
+   "fiveyear": "501 356 kr",
+   "prisändring": "275 kr"
+ },
+ {
+   "kommun": "GNESTA",
+   "2021": "3 445 333 kr",
+   "fiveyear": "1 022 262 kr",
+   "prisändring": "560 kr"
+ },
+ {
+   "kommun": "GNOSJÖ",
+   "2021": "1 443 519 kr",
+   "fiveyear": "289 465 kr",
+   "prisändring": "159 kr"
+ },
+ {
+   "kommun": "GOTLAND",
+   "2021": "3 803 714 kr",
+   "fiveyear": "1 168 635 kr",
+   "prisändring": "640 kr"
+ },
+ {
+   "kommun": "GRUMS",
+   "2021": "1 365 122 kr",
+   "fiveyear": "466 255 kr",
+   "prisändring": "255 kr"
+ },
+ {
+   "kommun": "GRÄSTORP",
+   "2021": "2 035 882 kr",
+   "fiveyear": "988 413 kr",
+   "prisändring": "542 kr"
+ },
+ {
+   "kommun": "GULLSPÅNG",
+   "2021": "1 061 197 kr",
+   "fiveyear": "503 931 kr",
+   "prisändring": "276 kr"
+ },
+ {
+   "kommun": "GÄLLIVARE",
+   "2021": "2 277 932 kr",
+   "fiveyear": "393 647 kr",
+   "prisändring": "216 kr"
+ },
+ {
+   "kommun": "GÄVLE",
+   "2021": "3 528 997 kr",
+   "fiveyear": "1 097 602 kr",
+   "prisändring": "601 kr"
+ },
+ {
+   "kommun": "GÖTEBORG",
+   "2021": "6 964 049 kr",
+   "fiveyear": "1 793 290 kr",
+   "prisändring": "983 kr"
+ },
+ {
+   "kommun": "GÖTENE",
+   "2021": "1 957 534 kr",
+   "fiveyear": "642 055 kr",
+   "prisändring": "352 kr"
+ },
+ {
+   "kommun": "HABO",
+   "2021": "3 290 083 kr",
+   "fiveyear": "988 058 kr",
+   "prisändring": "541 kr"
+ },
+ {
+   "kommun": "HAGFORS",
+   "2021": "783 603 kr",
+   "fiveyear": "283 867 kr",
+   "prisändring": "156 kr"
+ },
+ {
+   "kommun": "HALLSBERG",
+   "2021": "1 819 863 kr",
+   "fiveyear": "478 437 kr",
+   "prisändring": "262 kr"
+ },
+ {
+   "kommun": "HALLSTAHAMMAR",
+   "2021": "2 782 233 kr",
+   "fiveyear": "928 251 kr",
+   "prisändring": "509 kr"
+ },
+ {
+   "kommun": "HALMSTAD",
+   "2021": "4 429 409 kr",
+   "fiveyear": "1 497 369 kr",
+   "prisändring": "820 kr"
+ },
+ {
+   "kommun": "HAMMARÖ",
+   "2021": "4 012 831 kr",
+   "fiveyear": "1 137 033 kr",
+   "prisändring": "623 kr"
+ },
+ {
+   "kommun": "HANINGE",
+   "2021": "5 539 185 kr",
+   "fiveyear": "1 248 998 kr",
+   "prisändring": "684 kr"
+ },
+ {
+   "kommun": "HAPARANDA",
+   "2021": "924 548 kr",
+   "fiveyear": "165 129 kr",
+   "prisändring": "90 kr"
+ },
+ {
+   "kommun": "HEBY",
+   "2021": "1 939 718 kr",
+   "fiveyear": "539 730 kr",
+   "prisändring": "296 kr"
+ },
+ {
+   "kommun": "HEDEMORA",
+   "2021": "1 720 850 kr",
+   "fiveyear": "578 343 kr",
+   "prisändring": "317 kr"
+ },
+ {
+   "kommun": "HELSINGBORG",
+   "2021": "4 886 778 kr",
+   "fiveyear": "1 388 008 kr",
+   "prisändring": "761 kr"
+ },
+ {
+   "kommun": "HERRLJUNGA",
+   "2021": "1 545 736 kr",
+   "fiveyear": "524 284 kr",
+   "prisändring": "287 kr"
+ },
+ {
+   "kommun": "HJO",
+   "2021": "2 213 026 kr",
+   "fiveyear": "736 878 kr",
+   "prisändring": "404 kr"
+ },
+ {
+   "kommun": "HOFORS",
+   "2021": "1 181 635 kr",
+   "fiveyear": "417 756 kr",
+   "prisändring": "229 kr"
+ },
+ {
+   "kommun": "HUDDINGE",
+   "2021": "7 080 444 kr",
+   "fiveyear": "1 678 833 kr",
+   "prisändring": "920 kr"
+ },
+ {
+   "kommun": "HUDIKSVALL",
+   "2021": "2 354 754 kr",
+   "fiveyear": "677 838 kr",
+   "prisändring": "371 kr"
+ },
+ {
+   "kommun": "HULTSFRED",
+   "2021": "876 173 kr",
+   "fiveyear": "333 362 kr",
+   "prisändring": "183 kr"
+ },
+ {
+   "kommun": "HYLTE",
+   "2021": "1 124 189 kr",
+   "fiveyear": "298 861 kr",
+   "prisändring": "164 kr"
+ },
+ {
+   "kommun": "HÅBO",
+   "2021": "4 588 698 kr",
+   "fiveyear": "1 240 665 kr",
+   "prisändring": "680 kr"
+ },
+ {
+   "kommun": "HÄLLEFORS",
+   "2021": "771 333 kr",
+   "fiveyear": "268 193 kr",
+   "prisändring": "147 kr"
+ },
+ {
+   "kommun": "HÄRJEDALEN",
+   "2021": "1 589 267 kr",
+   "fiveyear": "309 262 kr",
+   "prisändring": "169 kr"
+ },
+ {
+   "kommun": "HÄRNÖSAND",
+   "2021": "1 351 045 kr",
+   "fiveyear": "280 408 kr",
+   "prisändring": "154 kr"
+ },
+ {
+   "kommun": "HÄRRYDA",
+   "2021": "5 563 869 kr",
+   "fiveyear": "1 658 658 kr",
+   "prisändring": "909 kr"
+ },
+ {
+   "kommun": "HÄSSLEHOLM",
+   "2021": "1 971 145 kr",
+   "fiveyear": "607 540 kr",
+   "prisändring": "333 kr"
+ },
+ {
+   "kommun": "HÖGANÄS",
+   "2021": "4 968 728 kr",
+   "fiveyear": "2 109 902 kr",
+   "prisändring": "1 156 kr"
+ },
+ {
+   "kommun": "HÖGSBY",
+   "2021": "655 114 kr",
+   "fiveyear": "196 174 kr",
+   "prisändring": "107 kr"
+ },
+ {
+   "kommun": "HÖRBY",
+   "2021": "2 423 060 kr",
+   "fiveyear": "931 288 kr",
+   "prisändring": "510 kr"
+ },
+ {
+   "kommun": "HÖÖR",
+   "2021": "2 787 752 kr",
+   "fiveyear": "979 422 kr",
+   "prisändring": "537 kr"
+ },
+ {
+   "kommun": "JÄRFÄLLA",
+   "2021": "6 142 050 kr",
+   "fiveyear": "1 103 118 kr",
+   "prisändring": "604 kr"
+ },
+ {
+   "kommun": "JÖNKÖPING",
+   "2021": "4 177 954 kr",
+   "fiveyear": "1 022 576 kr",
+   "prisändring": "560 kr"
+ },
+ {
+   "kommun": "KALIX",
+   "2021": "1 073 712 kr",
+   "fiveyear": "369 755 kr",
+   "prisändring": "203 kr"
+ },
+ {
+   "kommun": "KALMAR",
+   "2021": "3 401 187 kr",
+   "fiveyear": "762 017 kr",
+   "prisändring": "418 kr"
+ },
+ {
+   "kommun": "KARLSBORG",
+   "2021": "1 788 333 kr",
+   "fiveyear": "659 510 kr",
+   "prisändring": "361 kr"
+ },
+ {
+   "kommun": "KARLSHAMN",
+   "2021": "2 256 203 kr",
+   "fiveyear": "854 261 kr",
+   "prisändring": "468 kr"
+ },
+ {
+   "kommun": "KARLSKOGA",
+   "2021": "1 917 390 kr",
+   "fiveyear": "535 662 kr",
+   "prisändring": "294 kr"
+ },
+ {
+   "kommun": "KARLSKRONA",
+   "2021": "2 974 557 kr",
+   "fiveyear": "948 392 kr",
+   "prisändring": "520 kr"
+ },
+ {
+   "kommun": "KARLSTAD",
+   "2021": "3 499 631 kr",
+   "fiveyear": "987 788 kr",
+   "prisändring": "541 kr"
+ },
+ {
+   "kommun": "KATRINEHOLM",
+   "2021": "2 575 917 kr",
+   "fiveyear": "632 718 kr",
+   "prisändring": "347 kr"
+ },
+ {
+   "kommun": "KIL",
+   "2021": "2 322 359 kr",
+   "fiveyear": "811 959 kr",
+   "prisändring": "445 kr"
+ },
+ {
+   "kommun": "KINDA",
+   "2021": "2 586 357 kr",
+   "fiveyear": "729 316 kr",
+   "prisändring": "400 kr"
+ },
+ {
+   "kommun": "KIRUNA",
+   "2021": "2 350 424 kr",
+   "fiveyear": "676 095 kr",
+   "prisändring": "370 kr"
+ },
+ {
+   "kommun": "KLIPPAN",
+   "2021": "1 903 366 kr",
+   "fiveyear": "697 334 kr",
+   "prisändring": "382 kr"
+ },
+ {
+   "kommun": "KNIVSTA",
+   "2021": "5 428 081 kr",
+   "fiveyear": "1 368 020 kr",
+   "prisändring": "750 kr"
+ },
+ {
+   "kommun": "KRAMFORS",
+   "2021": "746 560 kr",
+   "fiveyear": "133 253 kr",
+   "prisändring": "73 kr"
+ },
+ {
+   "kommun": "KRISTIANSTAD",
+   "2021": "2 681 492 kr",
+   "fiveyear": "706 761 kr",
+   "prisändring": "387 kr"
+ },
+ {
+   "kommun": "KRISTINEHAMN",
+   "2021": "1 921 782 kr",
+   "fiveyear": "714 064 kr",
+   "prisändring": "391 kr"
+ },
+ {
+   "kommun": "KROKOM",
+   "2021": "2 396 846 kr",
+   "fiveyear": "606 032 kr",
+   "prisändring": "332 kr"
+ },
+ {
+   "kommun": "KUMLA",
+   "2021": "3 019 000 kr",
+   "fiveyear": "1 002 052 kr",
+   "prisändring": "549 kr"
+ },
+ {
+   "kommun": "KUNGSBACKA",
+   "2021": "6 255 803 kr",
+   "fiveyear": "1 881 006 kr",
+   "prisändring": "1 031 kr"
+ },
+ {
+   "kommun": "KUNGSÖR",
+   "2021": "2 453 854 kr",
+   "fiveyear": "882 877 kr",
+   "prisändring": "484 kr"
+ },
+ {
+   "kommun": "KUNGÄLV",
+   "2021": "4 922 864 kr",
+   "fiveyear": "1 105 358 kr",
+   "prisändring": "606 kr"
+ },
+ {
+   "kommun": "KÄVLINGE",
+   "2021": "4 778 196 kr",
+   "fiveyear": "1 626 771 kr",
+   "prisändring": "891 kr"
+ },
+ {
+   "kommun": "KÖPING",
+   "2021": "2 561 203 kr",
+   "fiveyear": "820 980 kr",
+   "prisändring": "450 kr"
+ },
+ {
+   "kommun": "LAHOLM",
+   "2021": "2 487 702 kr",
+   "fiveyear": "697 427 kr",
+   "prisändring": "382 kr"
+ },
+ {
+   "kommun": "LANDSKRONA",
+   "2021": "4 047 912 kr",
+   "fiveyear": "1 279 690 kr",
+   "prisändring": "701 kr"
+ },
+ {
+   "kommun": "LAXÅ",
+   "2021": "1 085 003 kr",
+   "fiveyear": "343 541 kr",
+   "prisändring": "188 kr"
+ },
+ {
+   "kommun": "LEKEBERG",
+   "2021": "2 355 568 kr",
+   "fiveyear": "763 552 kr",
+   "prisändring": "418 kr"
+ },
+ {
+   "kommun": "LEKSAND",
+   "2021": "2 708 386 kr",
+   "fiveyear": "881 626 kr",
+   "prisändring": "483 kr"
+ },
+ {
+   "kommun": "LERUM",
+   "2021": "4 975 914 kr",
+   "fiveyear": "1 413 417 kr",
+   "prisändring": "774 kr"
+ },
+ {
+   "kommun": "LESSEBO",
+   "2021": "1 174 224 kr",
+   "fiveyear": "236 180 kr",
+   "prisändring": "129 kr"
+ },
+ {
+   "kommun": "LIDINGÖ",
+   "2021": "14 101 432 kr",
+   "fiveyear": "3 672 206 kr",
+   "prisändring": "2 012 kr"
+ },
+ {
+   "kommun": "LIDKÖPING",
+   "2021": "3 291 136 kr",
+   "fiveyear": "933 569 kr",
+   "prisändring": "512 kr"
+ },
+ {
+   "kommun": "LILLA EDET",
+   "2021": "2 583 789 kr",
+   "fiveyear": "799 372 kr",
+   "prisändring": "438 kr"
+ },
+ {
+   "kommun": "LINDESBERG",
+   "2021": "1 563 118 kr",
+   "fiveyear": "441 859 kr",
+   "prisändring": "242 kr"
+ },
+ {
+   "kommun": "LINKÖPING",
+   "2021": "4 809 332 kr",
+   "fiveyear": "1 628 643 kr",
+   "prisändring": "892 kr"
+ },
+ {
+   "kommun": "LJUNGBY",
+   "2021": "1 871 481 kr",
+   "fiveyear": "403 427 kr",
+   "prisändring": "221 kr"
+ },
+ {
+   "kommun": "LJUSDAL",
+   "2021": "1 499 291 kr",
+   "fiveyear": "466 438 kr",
+   "prisändring": "256 kr"
+ },
+ {
+   "kommun": "LJUSNARSBERG",
+   "2021": "614 318 kr",
+   "fiveyear": "70 508 kr",
+   "prisändring": "39 kr"
+ },
+ {
+   "kommun": "LOMMA",
+   "2021": "7 819 955 kr",
+   "fiveyear": "3 403 301 kr",
+   "prisändring": "1 865 kr"
+ },
+ {
+   "kommun": "LUDVIKA",
+   "2021": "1 530 835 kr",
+   "fiveyear": "414 865 kr",
+   "prisändring": "227 kr"
+ },
+ {
+   "kommun": "LULEÅ",
+   "2021": "3 216 467 kr",
+   "fiveyear": "648 333 kr",
+   "prisändring": "355 kr"
+ },
+ {
+   "kommun": "LUND",
+   "2021": "5 944 068 kr",
+   "fiveyear": "2 078 182 kr",
+   "prisändring": "1 139 kr"
+ },
+ {
+   "kommun": "LYCKSELE",
+   "2021": "1 227 067 kr",
+   "fiveyear": "361 405 kr",
+   "prisändring": "198 kr"
+ },
+ {
+   "kommun": "LYSEKIL",
+   "2021": "3 285 253 kr",
+   "fiveyear": "756 845 kr",
+   "prisändring": "415 kr"
+ },
+ {
+   "kommun": "MALMÖ",
+   "2021": "6 019 833 kr",
+   "fiveyear": "1 847 203 kr",
+   "prisändring": "1 012 kr"
+ },
+ {
+   "kommun": "MALUNG-SÄLEN",
+   "2021": "2 047 319 kr",
+   "fiveyear": "843 069 kr",
+   "prisändring": "462 kr"
+ },
+ {
+   "kommun": "MARIESTAD",
+   "2021": "2 156 588 kr",
+   "fiveyear": "557 240 kr",
+   "prisändring": "305 kr"
+ },
+ {
+   "kommun": "MARK",
+   "2021": "2 432 012 kr",
+   "fiveyear": "750 490 kr",
+   "prisändring": "411 kr"
+ },
+ {
+   "kommun": "MARKARYD",
+   "2021": "1 303 548 kr",
+   "fiveyear": "543 093 kr",
+   "prisändring": "298 kr"
+ },
+ {
+   "kommun": "MELLERUD",
+   "2021": "1 358 636 kr",
+   "fiveyear": "447 661 kr",
+   "prisändring": "245 kr"
+ },
+ {
+   "kommun": "MJÖLBY",
+   "2021": "3 220 462 kr",
+   "fiveyear": "1 325 755 kr",
+   "prisändring": "726 kr"
+ },
+ {
+   "kommun": "MORA",
+   "2021": "2 203 075 kr",
+   "fiveyear": "674 212 kr",
+   "prisändring": "369 kr"
+ },
+ {
+   "kommun": "MOTALA",
+   "2021": "2 645 084 kr",
+   "fiveyear": "757 826 kr",
+   "prisändring": "415 kr"
+ },
+ {
+   "kommun": "MULLSJÖ",
+   "2021": "2 339 877 kr",
+   "fiveyear": "1 060 779 kr",
+   "prisändring": "581 kr"
+ },
+ {
+   "kommun": "MUNKEDAL",
+   "2021": "1 753 333 kr",
+   "fiveyear": "392 045 kr",
+   "prisändring": "215 kr"
+ },
+ {
+   "kommun": "MUNKFORS",
+   "2021": "656 000 kr",
+   "fiveyear": "252 821 kr",
+   "prisändring": "139 kr"
+ },
+ {
+   "kommun": "MÖLNDAL",
+   "2021": "6 374 398 kr",
+   "fiveyear": "1 665 916 kr",
+   "prisändring": "913 kr"
+ },
+ {
+   "kommun": "MÖNSTERÅS",
+   "2021": "1 577 839 kr",
+   "fiveyear": "366 922 kr",
+   "prisändring": "201 kr"
+ },
+ {
+   "kommun": "MÖRBYLÅNGA",
+   "2021": "2 888 750 kr",
+   "fiveyear": "868 157 kr",
+   "prisändring": "476 kr"
+ },
+ {
+   "kommun": "NACKA",
+   "2021": "10 008 632 kr",
+   "fiveyear": "2 545 590 kr",
+   "prisändring": "1 395 kr"
+ },
+ {
+   "kommun": "NORA",
+   "2021": "1 715 345 kr",
+   "fiveyear": "281 492 kr",
+   "prisändring": "154 kr"
+ },
+ {
+   "kommun": "NORDANSTIG",
+   "2021": "1 210 369 kr",
+   "fiveyear": "463 924 kr",
+   "prisändring": "254 kr"
+ },
+ {
+   "kommun": "NORDMALING",
+   "2021": "1 572 667 kr",
+   "fiveyear": "787 146 kr",
+   "prisändring": "431 kr"
+ },
+ {
+   "kommun": "NORRKÖPING",
+   "2021": "3 822 896 kr",
+   "fiveyear": "1 044 839 kr",
+   "prisändring": "573 kr"
+ },
+ {
+   "kommun": "NORRTÄLJE",
+   "2021": "3 786 685 kr",
+   "fiveyear": "1 337 988 kr",
+   "prisändring": "733 kr"
+ },
+ {
+   "kommun": "NYBRO",
+   "2021": "1 497 393 kr",
+   "fiveyear": "507 498 kr",
+   "prisändring": "278 kr"
+ },
+ {
+   "kommun": "NYKVARN",
+   "2021": "4 783 446 kr",
+   "fiveyear": "1 300 613 kr",
+   "prisändring": "713 kr"
+ },
+ {
+   "kommun": "NYKÖPING",
+   "2021": "3 828 549 kr",
+   "fiveyear": "1 095 997 kr",
+   "prisändring": "601 kr"
+ },
+ {
+   "kommun": "NYNÄSHAMN",
+   "2021": "4 151 785 kr",
+   "fiveyear": "908 923 kr",
+   "prisändring": "498 kr"
+ },
+ {
+   "kommun": "NÄSSJÖ",
+   "2021": "1 995 351 kr",
+   "fiveyear": "775 988 kr",
+   "prisändring": "425 kr"
+ },
+ {
+   "kommun": "OCKELBO",
+   "2021": "1 459 737 kr",
+   "fiveyear": "615 585 kr",
+   "prisändring": "337 kr"
+ },
+ {
+   "kommun": "OLOFSTRÖM",
+   "2021": "1 287 947 kr",
+   "fiveyear": "506 206 kr",
+   "prisändring": "277 kr"
+ },
+ {
+   "kommun": "ORSA",
+   "2021": "1 790 588 kr",
+   "fiveyear": "566 929 kr",
+   "prisändring": "311 kr"
+ },
+ {
+   "kommun": "ORUST",
+   "2021": "3 628 682 kr",
+   "fiveyear": "1 130 815 kr",
+   "prisändring": "620 kr"
+ },
+ {
+   "kommun": "OSBY",
+   "2021": "1 393 766 kr",
+   "fiveyear": "321 896 kr",
+   "prisändring": "176 kr"
+ },
+ {
+   "kommun": "OSKARSHAMN",
+   "2021": "1 975 875 kr",
+   "fiveyear": "335 662 kr",
+   "prisändring": "184 kr"
+ },
+ {
+   "kommun": "OVANÅKER",
+   "2021": "1 070 552 kr",
+   "fiveyear": "272 958 kr",
+   "prisändring": "150 kr"
+ },
+ {
+   "kommun": "OXELÖSUND",
+   "2021": "3 464 500 kr",
+   "fiveyear": "1 414 006 kr",
+   "prisändring": "775 kr"
+ },
+ {
+   "kommun": "PARTILLE",
+   "2021": "6 783 086 kr",
+   "fiveyear": "1 903 219 kr",
+   "prisändring": "1 043 kr"
+ },
+ {
+   "kommun": "PERSTORP",
+   "2021": "1 341 250 kr",
+   "fiveyear": "362 288 kr",
+   "prisändring": "199 kr"
+ },
+ {
+   "kommun": "PITEÅ",
+   "2021": "2 005 947 kr",
+   "fiveyear": "587 703 kr",
+   "prisändring": "322 kr"
+ }
 ]
